@@ -13,7 +13,7 @@ Lock Contract:0xc41c5dB040670e94d26e778F86B716aBd314a83F
 
 Lock Owner Conract:0xBD866B591FD40E8C27eB9e206B1eAA7ef193A5Ac
 
-https://discord.com/channels/998052779224481802/998052779966861364
+[https://discord.com/channels/998052779224481802/998052779966861364](https://discord.gg/c4CuCz9e)
 
 https://github.com/BitBoxFinance
 
