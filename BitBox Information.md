@@ -20,3 +20,5 @@ https://github.com/BitBoxFinance
 https://t.me/BitBox_BBX
 
 https://twitter.com/BbxBitbox
+
+https://medium.com/@bitboxbbx
